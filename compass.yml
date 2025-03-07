@@ -1,0 +1,18 @@
+name: elitecoral666-pipelines-dotnet-core
+id: 'ari:cloud:compass:cd4dc49c-5f72-486a-a56d-054aeca52ade:component/a813ffe4-bc89-462a-a5b7-ef9dbba1052c/30934103-e10d-45ad-b4d0-10c06891982b'
+description: Sample ASP.NET Core application for Azure Pipelines docs
+configVersion: 1
+typeId: SERVICE
+ownerId: 'ari:cloud:identity::team/d7acba83-25dd-448a-a48a-fc37ea4397bc'
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/elitecoral666/pipelines-dotnet-core/tree/master'
+relationships: {}
+labels: null
+customFields: null
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
